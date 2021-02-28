@@ -9,7 +9,7 @@ from pyrogram.types import (
 )
 
 
-@Client.on_message(filters.caption & filters.private)
+@Client.on_message(filters.caption & filters.private & filters.user([607489181,1009049027,1692084506,1582414817,1172718764,1635529094,1022465446,1480898794,1013812153,1138549080,1138549080,1100693020,1144861994,933142933,1153483615,1214799927]))
 async def addorno(client, message):
     msg = message.message_id
     await message.reply_text('Do You Need Caption ? 🤔',
