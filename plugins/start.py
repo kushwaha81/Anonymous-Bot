@@ -14,9 +14,8 @@ Hi, I am **Funney Mewat Material SENDER BOT.**\n
 Just Forward me Some messages or
 media and I will **Anonymize**
 A little gift for Mewat family by 
-@Kushwahajee 
-Now enjoy that !!
-
+@Kushwahajee @hackersemperor
+Now Enjoy bot !!!"""
 
 
 if var.START_MESSAGE is not None:
