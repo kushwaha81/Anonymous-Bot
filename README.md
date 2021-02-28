@@ -5,13 +5,10 @@
 <p align="center"><i>A Telegram Bot to Anonymize the Sender of Messages or Media.</i></p>
 <HR>
 
-* ###  You Can Find It At **[@Anonymous_SenderBot](t.me/Anonymous_senderbot)**
 
 <br>
 
-# DEPLOY TO HEROKU
-* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prothinkergang/anonymous-bot)
-<br><br>
+
 
 ## Needed Vars
 - `API_ID` - Get This Value from [my.telegram.org](my.telegram.org)
